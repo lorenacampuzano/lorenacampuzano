@@ -1,4 +1,4 @@
-👋 Hi, I’m (Lorena Campuzano)[http://www.lorenacampuzano.com]
+👋 Hi, I’m [Lorena Campuzano](http://www.lorenacampuzano.com)
 My technoligies: #Python #R #SQL
 <!---
 lorenacampuzano/lorenacampuzano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
