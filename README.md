@@ -1,12 +1,12 @@
 # 👋 Hi, I’m [Lorena Campuzano](https://www.linkedin.com/in/lorenacampuzano/)
 
-**Data Scientist in process 💻📊**
+**Businees Intelligence Analyst Jr 💻📊**
 
 ## About me
 
 I'm currently learning:
 - #Python
-- #R 
+- #Power BI 
 - #SQL
 
 I like to keep learning: [my profile on Platzi](https://platzi.com/p/lorenacampuzano/) 💚
